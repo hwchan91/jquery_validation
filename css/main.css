@@ -1,0 +1,32 @@
+body {
+    padding: 20px;
+}
+
+label {
+    display: block;
+}
+
+input.error {
+    border: 1px solid red;
+}
+
+input.valid {
+    border: 1px solid green;
+}
+
+label.error {
+    font-weight: bold;
+}
+
+label.valid {
+  color: green;
+}
+
+div.error {
+  color: red;
+}
+
+button {
+    display: block;
+    margin-top: 20px;
+}
